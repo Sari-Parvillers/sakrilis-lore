@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{117:function(r,n,o){"use strict";o.r(n),o.d(n,"ancestors",(function(){return e})),o.d(n,"children",(function(){return t}));var e=["/","deities/","major evil gods/"],t=["sakrilis","laimorkir","urlik","the dark monarch"]}}]);

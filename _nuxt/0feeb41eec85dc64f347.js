@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{115:function(n,o,e){"use strict";e.r(o),e.d(o,"ancestors",(function(){return r})),e.d(o,"children",(function(){return t}));var r=["/","deities/"],t=["old pantheon","major evil gods"]}}]);

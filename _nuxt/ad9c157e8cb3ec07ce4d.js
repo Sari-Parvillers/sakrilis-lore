@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{120:function(n,r,o){"use strict";o.r(r),o.d(r,"ancestors",(function(){return e})),o.d(r,"children",(function(){return t}));var e=["/","deities/","major evil gods/","laimorkir/"],t=[]}}]);

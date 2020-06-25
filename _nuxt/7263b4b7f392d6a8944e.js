@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{116:function(n,r,c){"use strict";c.r(r),c.d(r,"ancestors",(function(){return e})),c.d(r,"children",(function(){return o}));var e=["/","realms/"],o=["necrolands"]}}]);
