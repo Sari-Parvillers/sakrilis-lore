@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import { mapState } from 'Vuex'
+import { mapState } from 'vuex'
 
 import FileButton from './NavSideBar/FileButton.vue'
 import FolderButton from './NavSideBar/FolderButton.vue'

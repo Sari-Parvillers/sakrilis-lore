@@ -7,7 +7,7 @@
 </template>
 
 <script>
-// import { mapMutations } from 'Vuex'
+// import { mapMutations } from 'vuex'
 // import { computeFiles } from 'assets/computeFiles.js'
 // import { computeFolders } from 'assets/computeFolders.js'
 
