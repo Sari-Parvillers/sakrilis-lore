@@ -12,7 +12,8 @@ jobs:
         with:
           persist-credentials: false
       - name: Install and Build 🔧
-        env: DEPLOY_ENV=GH_PAGES
+        env:
+          DEPLOY_ENV: GH_PAGES
         run: |
           npm install
           npm run generate
