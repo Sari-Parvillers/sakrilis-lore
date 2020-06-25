@@ -60,7 +60,8 @@ main {
 
 main > * {
   border: 1px solid black;
-  height: 100vh;
+  min-height: 100vh;
+  height: 100%;
 }
 
 article {
@@ -78,6 +79,10 @@ article {
   );
 }
 
+.link {
+  color: #e3deca;
+}
+
 h1 {
   font-family: 'serif';
   text-align: center;
@@ -85,5 +90,13 @@ h1 {
 
 p {
   line-height: 1.4;
+}
+
+article > ul {
+  line-height: 1.4;
+}
+
+article > ul > li {
+  margin-top: 4px;
 }
 </style>

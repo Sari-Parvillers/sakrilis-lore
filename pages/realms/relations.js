@@ -1,3 +1,3 @@
 export const ancestors = ['/', 'realms/']
 
-export const children = ['desolation', 'necrolands']
+export const children = ['necrolands']

@@ -1,17 +1,16 @@
 <template>
-  <article>REALMS</article>
+  <article>
+    <h1>The Realms of Fragmicia</h1>
+
+    <p>
+      This part of the Codex remains to be filled.
+    </p>
+  </article>
 </template>
 
 <script>
-import { ancestors } from '../relations.js'
-
 export default {
-  name: 'Realms',
-  data() {
-    return {
-      ancestors
-    }
-  }
+  name: 'Realms'
 }
 </script>
 

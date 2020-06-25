@@ -2,29 +2,18 @@
   <article>
     <h1>Deities</h1>
     <p>
-      For as long as Fragmicia has existed, there have been deities. In external
-      realms, perhaps, there are more god-like beings that originate from a time
-      far beyond that of Fragmicia, but this world is the result of the touch of
-      a few deities, that of the Old Pantheon to be precise.
+      Fragmicia is a world made by and governed by Deities. They have a powerful
+      influence on the world, some good, some evil, and some neutral. Some
+      deities exist only within the confines of Fragmicia, some are external to
+      this world, existing in places such as the Ethereal or Hell. Some are
+      personified, and may even roam the world in physical form, others are
+      conceptual and never speak words.
     </p>
     <p>
-      Beside the Old Pantheon, the Deities are generally categorised by their
-      alignments, power and presence. There are minor good gods, far more
-      numerous but far less prominent in Fragmicia.
-    </p>
-    <p>
-      There are the major neutral gods, serving disparate or even opposite
-      interests of neither good nor evil nature, and minor neutral gods, most of
-      which resemble mortals the most because of their mixed nature and nearly
-      attainable power.
-    </p>
-    <p>
-      Finally, there are the major evil gods, and their minor counterparts. For
-      two thousand years, since the disappearance of Sediro and the fall of many
-      other good gods, the world has been descending into darkness as the evil
-      gods dominate more and more. Some of them have harmful agendas, some of
-      them are simply unwitting monsters. They are all an affront to what is
-      good.
+      Since the creation of Fragmicia, mortals inhabiting the Realm have been
+      guided by the good gods, mainly the Sevens of the Old Pantheon. For two
+      thousand years now, however, evil gods have been unleashed upon the world
+      and have been in conflict with the good gods since.
     </p>
   </article>
 </template>

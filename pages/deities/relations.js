@@ -1,3 +1,3 @@
 export const ancestors = ['/', 'deities/']
 
-export const children = ['lyndia', 'solar']
+export const children = ['old pantheon', 'major evil gods']
